@@ -1,5 +1,3 @@
-# prompt: write a professional README file for this code
-
 # 3D Head Pose Estimation
 
 This project implements a robust and efficient system for 3D head pose estimation (Pitch, Yaw, and Roll), utilizing machine learning techniques trained on the AFLW2000 dataset. The system uses facial landmarks extracted by MediaPipe as features to predict the head orientation.
